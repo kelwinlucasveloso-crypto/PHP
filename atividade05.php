@@ -2,7 +2,6 @@
 $num1 = 10;
 $num2 = 8.5;
 $num3 = 7;
-
 $media = ($num1 + $num2 + $num3) /3; 
 
 echo "O primero numero e: $num1 <br>";
